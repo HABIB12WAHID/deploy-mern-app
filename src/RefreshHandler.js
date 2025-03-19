@@ -15,7 +15,7 @@ function RefreshHandler({setIsAuthenticated}) {
     }, [location, navigate, setIsAuthenticated])
   return (
     <div>
-        <h1>This is Demo test website Homepage</h1>
+        <h1>This is Demo test website</h1>
     </div>
   )
 }
