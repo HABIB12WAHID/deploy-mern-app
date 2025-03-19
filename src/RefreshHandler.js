@@ -14,7 +14,7 @@ function RefreshHandler({setIsAuthenticated}) {
         }
     }, [location, navigate, setIsAuthenticated])
   return (
-    <div>
+    <div style={{marginLeft: "80px"}}>
         <h1>This is Demo test website</h1>
     </div>
   )
